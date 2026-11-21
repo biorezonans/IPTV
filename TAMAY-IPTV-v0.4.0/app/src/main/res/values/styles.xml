@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TamayIptv" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#14B8A6</item>
+        <item name="colorPrimaryVariant">#0F766E</item>
+        <item name="colorSecondary">#F59E0B</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#101418</item>
+        <item name="android:navigationBarColor">#101418</item>
+        <item name="android:windowBackground">#101418</item>
+    </style>
+</resources>

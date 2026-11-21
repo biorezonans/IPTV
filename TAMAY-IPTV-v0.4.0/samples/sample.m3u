@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="demo.news" tvg-name="Demo Haber" group-title="Demo",Demo Haber (örnek adres)
+https://example.invalid/live/demo-news/index.m3u8
+#EXTINF:-1 tvg-id="demo.sports" tvg-logo="https://example.invalid/logo.png" group-title="Spor",Demo Spor (örnek adres)
+https://example.invalid/live/demo-sports/index.m3u8
